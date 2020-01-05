@@ -1,23 +1,23 @@
 {
   "frontSide": {
-    "jobTitle": "Engineer",
-    "name": "Wombat John"
+    "jobTitle": "Front End Developer",
+    "name": "Myles"
   },
   "selfIntroduction": {
     "menuItemTitle": "Self Introduction",
-    "description": "Nice to meet you! I'm Wombat John :) Do you know Wombat hun is square?",
+    "description": "Hello! My name is Paidamoyo-Janet Azehko, also known as 'Myles'. I am a React stack developer.",
     "socialURLs": [
       {
         "name": "github",
-        "url": "{your github id here}"
+        "url": "{http;//www.erostribe.github.io}"
       },
       {
-        "name": "facebook",
-        "url": "{your facebook id here}"
+        "name": "dev.to",
+        "url": "{https://dev.to/erostribe}"
       },
       {
         "name": "medium",
-        "url": "{your medium id here}"
+        "url": "{https://medium.com/@erostribe}"
       }
     ]
   },
@@ -55,8 +55,8 @@
     "contactItems": [
       {
         "type": "mail",
-        "label": "{your email here}",
-        "href": "mailto: {your email here}"
+        "label": "{janet@projecterostribe.com}",
+        "href": "mailto: {janet@projecterostribe.com"
       },
       {
         "type": "messenger",
@@ -69,19 +69,19 @@
     "menuItemTitle": "Career",
     "careerItems": [
       {
-        "year": "2017〜",
-        "title": "SatukiyamaZoo@Japan",
-        "description": "Lead Wombat"
+        "year": "2018",
+        "title": "Grabango",
+        "description": "Quality Trainer"
       },
       {
-        "year": "2014〜2016",
-        "title": "ChausuyamaZoo@Japan",
-        "description": "Disciple Wombat"
+        "year": "2018〜Current",
+        "title": "Change Catalyst",
+        "description": "Social Media Manager for TechInclusion"
       },
       {
-        "year": "2000",
-        "title": "Birth",
-        "description": "@Australia"
+        "year": "2010~Current",
+        "title": "Project Erostribe",
+        "description": "Creative Director"
       }
     ]
   },
@@ -89,22 +89,22 @@
     "menuItemTitle": "SkillSet",
     "skillDatum": [
       {
-        "categoryTitle": "Wombat Skill",
+        "categoryTitle": "Developer Skills:",
         "dataSets": [
           {
-            "label": "Run",
-            "level": 1,
+            "label": "HTML, CSS",
+            "level": 3,
             "barColor": "#F8545B",
             "annotation": "Not Good"
           },
           {
-            "label": "Eat",
-            "level": 5,
+            "label": "JavaScript",
+            "level": 3,
             "barColor": "#54B3F8",
             "annotation": "Yeeees!"
           },
           {
-            "label": "Sleep",
+            "label": "React",
             "level": 5,
             "barColor": "#34D97A",
             "annotation": "14Hours/Day"
